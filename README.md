@@ -1,4 +1,15 @@
-# T3 Gallery
+# Gallery App
+
+## Technologies
+- NextJS
+- Vercel
+- Vercel Postgres
+- ShadUI
+- Clerk Auth
+- Uploadthing
+- Sentry
+- Posthod
+- Upstash Redis
 
 ## TODO
 
